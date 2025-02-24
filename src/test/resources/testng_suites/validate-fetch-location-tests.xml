@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Fetch Location Api Call Scenarios" verbose="1">
+    <test verbose="1" name="Validate fetch location api call">
+        <classes>
+            <class name="com.fetch.tests.FetchLocationTest">
+            </class>
+        </classes>
+    </test>
+</suite>
